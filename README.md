@@ -81,8 +81,4 @@ I enjoy mentoring, technical leadership, and transforming complex ideas into cle
 - **GitHub:** `https://github.com/qwerteleven` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fqwerteleven")  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerteleven&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwerteleven&show_icons=true&theme=default)
-
-![Streak](https://streak-stats.demolab.com?user=qwerteleven&theme=default)
