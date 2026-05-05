@@ -77,8 +77,7 @@ I enjoy mentoring, technical leadership, and transforming complex ideas into cle
 ## Contact
 
 - **Email:** ll11ll1@outlook.es  
-- **LinkedIn:** `https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/` [(linkedin.com)]([https www.linkedin.com%2Fin%2Fleopoldo-lopez-62a4341b8%2F](https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/))  
-
-
+- **LinkedIn:** [www.linkedin](https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/)
+- **Portfolio:** [Portfolio](https://qwerteleven.github.io/leopoldolopez.github.io/)
 ---
 
