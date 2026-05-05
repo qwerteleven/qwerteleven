@@ -84,4 +84,4 @@ I enjoy mentoring, technical leadership, and transforming complex ideas into cle
 
 
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
