@@ -74,6 +74,7 @@ I enjoy mentoring, technical leadership, and transforming complex ideas into cle
 
 ---
 
+
 ## Contact
 
 - **Email:** ll11ll1@outlook.es  
@@ -81,3 +82,6 @@ I enjoy mentoring, technical leadership, and transforming complex ideas into cle
 - **Portfolio:** [Portfolio](https://qwerteleven.github.io/leopoldolopez.github.io/)
 ---
 
+
+
+![Language Stats](stats/leaderboard_by_lines.png)
