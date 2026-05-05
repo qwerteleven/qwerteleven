@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 Leopoldo López Reverón  
+# Leopoldo López Reverón  
 ### **Senior Machine Learning Engineer — Computer Vision, Edge AI & Real‑Time Perception Systems**
 
 I design and deploy **production‑grade AI systems** that operate in the real world: industrial, maritime, and edge‑constrained environments where reliability, latency, and optimization matter as much as accuracy.  
@@ -11,7 +11,7 @@ I currently work as a **Staff/Senior ML Engineer & Technical Lead**, building ar
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - **Edge AI & Real‑Time CV**  
   Deploying optimized models (TensorRT, ONNX, CUDA) on constrained hardware with strict latency budgets.
@@ -27,7 +27,7 @@ I currently work as a **Staff/Senior ML Engineer & Technical Lead**, building ar
 
 ---
 
-## 🧩 Selected Technical Skills
+## Selected Technical Skills
 
 - **AI & CV:** PyTorch, TensorFlow, YOLOv7/10, InternImage, Mask2Former, OpenPose, MiDaS, MixNet  
 - **Optimization:** TensorRT, ONNX Runtime, CUDA kernels, quantization, pruning  
@@ -37,7 +37,7 @@ I currently work as a **Staff/Senior ML Engineer & Technical Lead**, building ar
 
 ---
 
-## 🛠 Featured Projects
+## Featured Projects
 
 ### **🔹 Real‑Time PPE Detection System (Flagship Project)**  
 A production‑grade safety system deployed in industrial and maritime environments.  
@@ -60,29 +60,27 @@ A production‑grade safety system deployed in industrial and maritime environme
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Master’s in Smart Systems and Numerical Applications in Engineering (SIANI)** — ULPGC  
 - **Bachelor’s in Computer Engineering** — ULPGC  
 
 ---
 
-## 🌍 About Me
+## About Me
 
 I care about **elegant, physically correct solutions**, measurable impact, and building systems that survive the real world.  
 I enjoy mentoring, technical leadership, and transforming complex ideas into clear, actionable engineering.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** ll11ll1@outlook.es  
 - **LinkedIn:** `https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/` [(linkedin.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleopoldo-lopez-62a4341b8%2F")  
 - **GitHub:** `https://github.com/qwerteleven` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fqwerteleven")  
 
 ---
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerteleven&layout=compact&theme=default)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwerteleven&show_icons=true&theme=default)
