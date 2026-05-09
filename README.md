@@ -9,9 +9,9 @@
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
-I currently work as a **Staff / Senior ML Engineer & Technical Lead**, designing end-to-end AI systems, guiding cross-functional teams, and taking applied research through to production deployment.
+I currently work as a ML Engineer, designing end-to-end AI systems, guiding cross-functional teams, and taking applied research through to production deployment.
 
 My core focus areas:
 
@@ -22,7 +22,7 @@ My core focus areas:
 
 ---
 
-## 🧠 Knowledge Areas & Skills
+## Knowledge Areas & Skills
 
 ### Computer Vision & Deep Learning
 `PyTorch` · `TensorFlow` · `YOLOv7/10` · `InternImage` · `Mask2Former` · `OpenPose` · `MiDaS` · `MixNet`  
@@ -55,7 +55,7 @@ Cellular automaton simulation · Julia Set visualization · Numerical PDE solvin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 Real-Time PPE Detection System *(Flagship)*
 Production-grade safety system deployed in industrial and maritime environments.
@@ -144,7 +144,7 @@ Comparative performance study of four integer container implementations: Linked 
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master's in Smart Systems and Numerical Applications in Engineering (SIANI)**  
 Universidad de Las Palmas de Gran Canaria (ULPGC)
@@ -154,13 +154,13 @@ Universidad de Las Palmas de Gran Canaria (ULPGC)
 
 ---
 
-## 📊 Language Stats
+## Language Stats
 
 ![Language Stats](stats/leaderboard_by_bytes.png)
 
 ---
 
-## 💬 About Me
+## About Me
 
 I care about elegant, physically correct solutions, measurable impact, and systems that survive the real world.  
 I enjoy **technical leadership**, **mentoring engineers**, and translating complex research into clear, deployable engineering.
