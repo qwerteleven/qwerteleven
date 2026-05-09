@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://qwerteleven.github.io/leopoldolopez.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ll11ll1@outlook.es)
+[![GoogleSchoolar](https://img.icons8.com/?size=100&id=drPiDBy9kkJ3&format=png&color=000000)](https://scholar.google.es/citations?user=gbB0ZbcAAAAJ&hl)
+
 
 ---
 
@@ -167,6 +169,6 @@ I enjoy **technical leadership**, **mentoring engineers**, and translating compl
 
 If you're working on applied AI — perception, edge deployment, optimization, or real-time systems — let's talk.
 
-📩 [ll11ll1@outlook.es](mailto:ll11ll1@outlook.es) · [LinkedIn](https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/) · [Portfolio](https://qwerteleven.github.io/leopoldolopez.github.io/)
+📩 [ll11ll1@outlook.es](mailto:ll11ll1@outlook.es) · [LinkedIn](https://www.linkedin.com/in/leopoldo-lopez-62a4341b8/) · [Portfolio](https://qwerteleven.github.io/leopoldolopez.github.io/) · [GoogleSchoolar](https://scholar.google.es/citations?user=gbB0ZbcAAAAJ&hl)
 
 ---
