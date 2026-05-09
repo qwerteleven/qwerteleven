@@ -156,7 +156,7 @@ Universidad de Las Palmas de Gran Canaria (ULPGC)
 
 ## Language Stats
 
-![Language Stats](stats/leaderboard_by_bytes.png)
+![Language Stats](stats/leaderboard_by_weighted.png)
 
 ---
 
