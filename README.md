@@ -68,7 +68,7 @@ Production-grade safety system deployed in industrial and maritime environments.
 
 ---
 
-### 🔹 Monocular Depth Estimation — Satellite, Lunar & Panoramic Scenes
+### 🔹 Monocular Depth Estimation — Satellite, Lunar & Panoramic Scenes [link](https://github.com/qwerteleven/satellite_image_segmentation)
 A research pipeline applying Dense Prediction Transformer (DPT) models to unconventional, out-of-distribution domains.
 - Tiling strategy for high-resolution inference beyond model native resolution
 - Crop alignment and seam blending for artifact-free stitching
