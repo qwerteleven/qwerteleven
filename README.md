@@ -76,7 +76,7 @@ Cellular automaton simulation · Julia Set visualization · Numerical PDE solvin
 
 ## Featured Projects
 
-### 🔹 Real-Time PPE Detection System *(Flagship)*
+### 🔹 Real-Time PPE Detection System
 Production-grade safety system deployed in industrial and maritime environments.
 - Multi-camera, multi-stream real-time inference engine
 - TensorRT-optimized models for edge hardware
