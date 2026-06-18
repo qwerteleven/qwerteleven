@@ -23,6 +23,23 @@ My core focus areas:
 - **Systems Architecture** — End-to-end system design, observability stacks, and production-grade engineering
 
 ---
+## Research
+
+**Automated PPE Compliance Monitoring in Industrial Environments**  
+*Leopoldo López et al. — **Automation in Construction**, 2025, Elsevier*
+
+> Real-time multi-modal perception system for PPE detection deployed across 6 production environments running 24/7. First-author publication in a Q1 journal.
+
+**Key results:**
+- +5 F1 points over state of the art on a custom industrial dataset
+- 10× inference speedup via ONNX graph surgery → post-training quantization → TensorRT (120 ms → 12 ms @ batch=1, Jetson TX2, FP16)
+- Validated over 6 months of real-world data across industrial and maritime environments
+
+**Stack:** InternImage · YOLOv7 · OpenPose · TensorRT · ONNX · Jetson TX2 · PyTorch DDP
+
+[link](https://doi.org/10.1016/j.autcon.2025.106231) 
+
+---
 
 ## Knowledge Areas & Skills
 
@@ -78,7 +95,7 @@ A research pipeline applying Dense Prediction Transformer (DPT) models to unconv
 
 ---
 
-### 🔹 Face Detection in the Wild — Benchmark Framework
+### 🔹 Face Detection in the Wild — Benchmark Framework [link](https://github.com/qwerteleven/Face-Detection-in-the-Wild)
 Evaluates 12 face detection methods (classical + deep learning) under adverse real-world conditions.
 - Conditions: fog, rain, snow, night, sandstorm, crowded scenes
 - Methods: Haar/LBP Cascades, Viola-Jones, RetinaFace, YOLO, Faster R-CNN, SSD MobileNet, RFCN
@@ -86,7 +103,7 @@ Evaluates 12 face detection methods (classical + deep learning) under adverse re
 
 ---
 
-### 🔹 Waste Detection in Coastal Environments *(Bachelor's Thesis)*
+### 🔹 Waste Detection in Coastal Environments *(Bachelor's Thesis)*  [link](https://github.com/qwerteleven/TFG-Waste-detection-using-neural-networks-in-coastal-and-beach-environments)
 Benchmarks 130+ pre-trained object detectors (Detectron2 + MMDetection) for beach litter detection.
 - Cross-dataset class mapping: COCO/LVIS → TACO waste super-categories
 - Full evaluation pipeline: IoU matching, precision/recall/F1 per class and per image
@@ -95,7 +112,7 @@ Benchmarks 130+ pre-trained object detectors (Detectron2 + MMDetection) for beac
 
 ---
 
-### 🔹 TSP Solver Suite
+### 🔹 TSP Solver Suite [link](https://github.com/qwerteleven/TSP-problem)
 Five combinatorial optimization approaches to the Travelling Salesman Problem, benchmarked against Kaggle datasets up to 85,900 cities.
 - Christofides approximation algorithm (≤1.5× optimal)
 - Simulated Annealing with greedy initialization and 2-opt refinement
@@ -105,7 +122,7 @@ Five combinatorial optimization approaches to the Travelling Salesman Problem, b
 
 ---
 
-### 🔹 milex — A Compiled Programming Language
+### 🔹 milex — A Compiled Programming Language [link](https://github.com/qwerteleven/milex_language)
 A complete compiler for a statically-typed, C-like language, built from scratch.
 - Lexer: Flex with type-aware identifier resolution
 - Parser: Bison LALR(1) with single-pass syntax analysis, semantic checking, and Q-VM bytecode generation
@@ -114,7 +131,7 @@ A complete compiler for a statically-typed, C-like language, built from scratch.
 
 ---
 
-### 🔹 Numerical Methods Library (C)
+### 🔹 Numerical Methods Library (C)  [link](https://github.com/qwerteleven/Numeric_Methods)
 Production-style numerical computing library implementing:
 - Linear solvers: Gaussian elimination, LU, QR, Cholesky decomposition
 - Iterative methods: Jacobi, Gauss-Seidel, SOR
@@ -124,35 +141,15 @@ Production-style numerical computing library implementing:
 
 ---
 
-### 🔹 Conway's Game of Life — MATLAB Performance Study
-Progression from naive nested loops to fully vectorized, convolution-based implementation.
-- Runs at 1920×1080 in real time
-- Demonstrates MATLAB optimization principles: loop elimination, conv2, element-wise logic
-
----
-
-### 🔹 Eyes Wall — Custom GLSL Toon Shader (Processing)
-12×12 sphere grid rendered with a custom vertex + fragment cel shader.
-- Vertex shader: normal-direction displacement for per-frame vibration
-- Fragment shader: diffuse intensity posterization into discrete lighting bands
-- Mouse-driven directional light creates "eyes opening and closing" illusion
-
----
-
-### 🔹 Data Structures Benchmark (Java)
-Comparative performance study of four integer container implementations: Linked List, Sorted Array, BST, and disk-backed B-Tree.
-- Benchmarks across insertions, extractions, successful and unsuccessful search at 10k–100k elements
-- B-Tree order tuning analysis: optimal order ≈ 25
-
 ---
 
 ## Education
 
 **Master's in Smart Systems and Numerical Applications in Engineering (SIANI)**  
-Universidad de Las Palmas de Gran Canaria (ULPGC)
+Universidad de Las Palmas de Gran Canaria (ULPGC) - CTIM Research Group (IEEE partner)
 
 **Bachelor's in Computer Engineering**  
-Universidad de Las Palmas de Gran Canaria (ULPGC)
+Universidad de Las Palmas de Gran Canaria (ULPGC) — ranked top 5% globally in computer science (QS 2024)
 
 ---
 
