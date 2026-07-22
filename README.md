@@ -1,5 +1,5 @@
 # Leopoldo López Reverón
-### Senior Normal person
+### Senior Normal Person (SNP)
 
 > I build AI that works in the real world — industrial floors, maritime decks, and edge-constrained hardware where latency, reliability, and observability are non-negotiable.
 
