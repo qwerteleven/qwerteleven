@@ -1,5 +1,5 @@
 # Leopoldo López Reverón
-### Senior ML Engineer · Computer Vision · Edge AI · Real-Time Perception Systems
+### Senior Normal person
 
 > I build AI that works in the real world — industrial floors, maritime decks, and edge-constrained hardware where latency, reliability, and observability are non-negotiable.
 
